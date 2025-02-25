@@ -1,0 +1,26 @@
+.App {
+  text-align: center;
+  font-family: Arial, sans-serif;
+}
+
+.App-header {
+  background-color: #282c34;
+  padding: 20px;
+  color: white;
+}
+
+.stock-graph {
+  margin: 20px auto;
+  max-width: 800px;
+}
+
+.stock-selector {
+  margin-bottom: 20px;
+}
+
+select {
+  margin-left: 10px;
+  padding: 5px;
+  font-size: 16px;
+}
+
